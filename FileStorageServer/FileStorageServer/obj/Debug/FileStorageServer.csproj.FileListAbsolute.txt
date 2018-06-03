@@ -1,0 +1,7 @@
+C:\Users\8\Documents\Visual Studio 2017\Projects\FileStorageServer\FileStorageServer\bin\Debug\FileStorageServer.exe.config
+C:\Users\8\Documents\Visual Studio 2017\Projects\FileStorageServer\FileStorageServer\bin\Debug\FileStorageServer.exe
+C:\Users\8\Documents\Visual Studio 2017\Projects\FileStorageServer\FileStorageServer\bin\Debug\FileStorageServer.pdb
+C:\Users\8\Documents\Visual Studio 2017\Projects\FileStorageServer\FileStorageServer\obj\Debug\FileStorageServer.csprojResolveAssemblyReference.cache
+C:\Users\8\Documents\Visual Studio 2017\Projects\FileStorageServer\FileStorageServer\obj\Debug\FileStorageServer.csproj.CoreCompileInputs.cache
+C:\Users\8\Documents\Visual Studio 2017\Projects\FileStorageServer\FileStorageServer\obj\Debug\FileStorageServer.exe
+C:\Users\8\Documents\Visual Studio 2017\Projects\FileStorageServer\FileStorageServer\obj\Debug\FileStorageServer.pdb

@@ -1,0 +1,7 @@
+c:\users\8\documents\visual studio 2017\Projects\FileStorageClient\FileStorageClient\bin\Debug\FileStorageClient.exe.config
+c:\users\8\documents\visual studio 2017\Projects\FileStorageClient\FileStorageClient\bin\Debug\FileStorageClient.exe
+c:\users\8\documents\visual studio 2017\Projects\FileStorageClient\FileStorageClient\bin\Debug\FileStorageClient.pdb
+c:\users\8\documents\visual studio 2017\Projects\FileStorageClient\FileStorageClient\obj\Debug\FileStorageClient.csprojResolveAssemblyReference.cache
+c:\users\8\documents\visual studio 2017\Projects\FileStorageClient\FileStorageClient\obj\Debug\FileStorageClient.csproj.CoreCompileInputs.cache
+c:\users\8\documents\visual studio 2017\Projects\FileStorageClient\FileStorageClient\obj\Debug\FileStorageClient.exe
+c:\users\8\documents\visual studio 2017\Projects\FileStorageClient\FileStorageClient\obj\Debug\FileStorageClient.pdb
